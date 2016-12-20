@@ -15,16 +15,17 @@ nav {
 .boton {
   color: #ffffff; }
 
-.boton:hover {
-  color: #42AB9E;
-  text-decoration: none; }
+.button:hover {
+  background: transparent;
+  color: #3a7999; }
 
 .img-bailarines {
   background-image: url(../images/bailarines.jpg);
   height: 70%;
   width: 100%;
   background-size: cover;
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  padding-bottom: 2%; }
 
 .img-osonegro {
   background-image: url(../images/osonegro.jpg);
