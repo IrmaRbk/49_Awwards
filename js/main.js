@@ -13,4 +13,7 @@ $( document ).ready(function() {
 	  // Destroy sideNav
 	  $('.button-collapse').sideNav('destroy');
 
+	  // para mi tooltip:
+	  $('.tooltipped').tooltip({delay: 50});
+
 });

@@ -11,3 +11,24 @@ nav {
 @media only screen and (max-width: 992px) {
   header, main, footer {
     padding-left: 0; } }
+
+.boton {
+  color: #ffffff; }
+
+.boton:hover {
+  color: #42AB9E;
+  text-decoration: none; }
+
+.img-bailarines {
+  background-image: url(../images/bailarines.jpg);
+  height: 70%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat; }
+
+.img-osonegro {
+  background-image: url(../images/osonegro.jpg);
+  height: 70%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat; }
